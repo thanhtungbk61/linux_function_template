@@ -1,3 +1,5 @@
+//  test modified
+
 /*
  * ten file: led_driver.c
  * tac gia : dat.a3cbq91@gmail.com
@@ -5,6 +7,7 @@
  * mo ta   : char driver cho thiet bi gia lap led_device.
  *           led_device la mot thiet bi nam tren RAM.
  */
+
 
 #include <linux/module.h> /* thu vien nay dinh nghia cac macro nhu module_init va module_exit */
 #include <linux/fs.h> /* thu vien nay dinh nghia cac ham cap phat/giai phong device number */
