@@ -1,0 +1,6 @@
+total 24
+-rw-rw-r-- 1 thanhtung thanhtung   66 Th08  3 16:58 data.txt
+-rwxrwxr-x 1 thanhtung thanhtung 8968 Th08  3 16:57 fork
+-rw-rw-r-- 1 thanhtung thanhtung 1154 Th08  3 16:56 fork.c
+-rw-rw-r-- 1 thanhtung thanhtung   41 Th08  3 16:06 Makefile
+-rw-rw-r-- 1 thanhtung thanhtung    0 Th08  3 17:07 test.txt
